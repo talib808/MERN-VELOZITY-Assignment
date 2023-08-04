@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.page-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #333;
+}
+.favorites-sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.favorites-button {
+  border: none;
+  background: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #e74c3c;
+}
+
