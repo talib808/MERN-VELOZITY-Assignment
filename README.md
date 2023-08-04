@@ -1,7 +1,7 @@
 ### Movie Search and Favorites App
 ![App Screenshot](https://snipboard.io/m8f1Qy.jpg)
 > • Live Recording - [Assignment](https://drive.google.com/file/d/1u2MHXuI0B1Kxqgidue4_SWLz8MAGN-oZ/view?usp=sharing)
-> This is a web application that allows users to search for movies, mark them as favorites, and view their favorite movies.
+- This is a web application that allows users to search for movies, mark them as favorites, and view their favorite movies.
 
 ### Features
 -  Search for movies using keywords.
