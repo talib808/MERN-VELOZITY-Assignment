@@ -5,7 +5,14 @@ const bodyParser = require('body-parser');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+app.use(cors(
+{
+origin: ["https://deploy-mern-1whq.vercel.app"],
+methods: ["POST", "GET"],
+credentials: true
+}
+));
+// app.use(cors());
 app.use(express.json());
 app.use(bodyParser.json());
 
